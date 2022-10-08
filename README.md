@@ -1,5 +1,3 @@
-<img align="right" height="390em" src="https://raw.githubusercontent.com/gist/werlleyg/b6311591b3859bdcedc48734a42257a0/raw/a68dc346d9ac89d0d4686c755be6795713745f26/githubcard.svg" />
-<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="2rem"> -->
 <h1 align="left">Olá, me chamo Werlley Gonçalves</h1>
 <p><img src="https://komarev.com/ghpvc/?username=werlleyg&color=yellow" alt="Profile views" /></p>
 
