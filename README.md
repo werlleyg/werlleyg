@@ -1,26 +1,13 @@
 <img align="right" height="390em" src="https://raw.githubusercontent.com/gist/werlleyg/b6311591b3859bdcedc48734a42257a0/raw/a68dc346d9ac89d0d4686c755be6795713745f26/githubcard.svg" />
 <!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="2rem"> -->
-<div style="display:flex;"><h1 align="left">Olá, me chamo Werlley Gonçalves</h1><img src="https://komarev.com/ghpvc/?username=werlleyg&color=yellow" alt="Profile views" /></div>
+<h1 align="left">Olá, me chamo Werlley Gonçalves</h1>
+<p><img src="https://komarev.com/ghpvc/?username=werlleyg&color=yellow" alt="Profile views" /></p>
 
 - 👨‍💻 Pós graduando em Engenharia de Software pela Faculdade Prominas;
 - 👷‍♂️ Engenheiro Eletricista pela Universidade Federal do Ceará (UFC);
 - ⚡ Conhecimento em Next.JS, ReactJS, Node.JS, JavaScript, TypeScript, Ionic, Angular, HTML, CSS, Styled Components, Material Ui, Axios, entre outros;
 
 <br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<br><br>
-
-<div align="center">
-  <a href="https://github.com/werlleyg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=werlleyg&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Werlley Gonçalves stats"/>
-</div>
-
-<br>
-
-## 🛠 &nbsp;Tech Stack
-
   <div align="center"> 
     <div style="display: inline_block"><br>
   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +18,15 @@
   <img align="center" alt="Angular.js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Ionic icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
   <img align="center" alt="Git icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div></div>
+</div>
+  </div>
+  
+  <br/>
+  <div align="center">
+  <a href="https://github.com/werlleyg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=werlleyg&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Werlley Gonçalves stats"/>
+</div>
+
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
