@@ -1,9 +1,16 @@
+<img src="https://github.com/werlleyg/werlleyg/blob/main/assets/images/Card.png" align="right" width="250px"/>
 <h1 align="left">Olá, me chamo Werlley Gonçalves</h1>
-<p><img src="https://komarev.com/ghpvc/?username=werlleyg&color=yellow" alt="Profile views" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=werlleyg&color=yellow" alt="Profile views" /></p>
 
-- 👨‍💻 Pós graduando em Engenharia de Software pela Faculdade Prominas;
+
+ - 👨‍💻 Pós graduando em Engenharia de Software pela Faculdade Prominas;
 - 👷‍♂️ Engenheiro Eletricista pela Universidade Federal do Ceará (UFC);
 - ⚡ Conhecimento em Next.JS, ReactJS, Node.JS, JavaScript, TypeScript, Ionic, Angular, HTML, CSS, Styled Components, Material Ui, Axios, entre outros;
+ 
+ 
+
+
+
 
 <br>
   <div align="center"> 
