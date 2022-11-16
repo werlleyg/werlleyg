@@ -5,7 +5,7 @@
 
  - 👨‍💻 Pós graduando em Engenharia de Software pela Faculdade Prominas;
 - 👷‍♂️ Engenheiro Eletricista pela Universidade Federal do Ceará (UFC);
-- ⚡ Conhecimento em Next.JS, ReactJS, Node.JS, JavaScript, TypeScript, Ionic, Angular, HTML, CSS, Styled Components, Material Ui, Axios, entre outros;
+- ⚡ Conhecimento em Next.JS, ReactJS, Node.JS, JavaScript, TypeScript, Ionic, Angular, HTML, CSS, Styled Components, Material Ui, Axios, entre outros.
  
  
 
