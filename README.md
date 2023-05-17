@@ -3,7 +3,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=werlleyg&color=yellow" alt="Profile views" /></p>
 
 
- - 👨‍💻 Pós graduando em Engenharia de Software pela Faculdade Prominas;
+ - 👨‍💻 Pós graduado em Engenharia de Software;
 - 👷‍♂️ Engenheiro Eletricista pela Universidade Federal do Ceará (UFC);
 - ⚡ Conhecimento em Next.JS, ReactJS, Node.JS, JavaScript, TypeScript, Ionic, Angular, HTML, CSS, Styled Components, Material Ui, Axios, entre outros.
  
