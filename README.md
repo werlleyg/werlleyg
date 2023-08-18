@@ -35,8 +35,8 @@ ReactJS, Next.JS, Node.Js, TypeScript, JavaScript, HTML5, CSS3, Sass, Styled Com
 
 ## 📈 GitHub metrics
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=werlleyg&show_icons=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=werlleyg&layout=compact&langs_count=8&card_width=320" />
+  <img width="55.5%" src="https://github-readme-stats.vercel.app/api?username=werlleyg&show_icons=true" />
+  <img  width="41.9%" src="https://github-readme-stats.vercel.app/api/top-langs?username=werlleyg&layout=compact&langs_count=8" style="flex:2"/>
 </div>
 
 ## ✉️ Contate me
