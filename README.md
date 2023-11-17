@@ -30,8 +30,8 @@ ReactJS, Next.JS, Node.Js, TypeScript, JavaScript, HTML5, CSS3, Sass, Styled Com
 - Pixel Perfection with Figma
 - Project versioning with GitHub
 - Agile methodologies
-- Digital Ocean, Amazon Web Services and Vercel
-- ClickUp, Asana and Trello
+- Digital Ocean, Amazon Web Services, Vercel and Firebase
+- Jira, ClickUp, Asana and Trello
 
 ## 📈 GitHub metrics
 <div align="center">
