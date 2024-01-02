@@ -9,7 +9,7 @@
 - Technology and innovation lover
 
  ## 👾 Technologies and tools
-ReactJS, Next.JS, Node.Js, TypeScript, JavaScript, HTML5, CSS3, Sass, Styled Components, Material UI, Ionic, Angular, NgRx, Axios, Prisma, ESLint, Prettier, GitHub, Git Flow, GitHub Actions, Clarity, Google Search, Pixel, among others.
+ReactJS, Next.JS, Node.Js, TypeScript, JavaScript, HTML5, CSS3, Sass, Styled Components, Material UI, Ionic, Angular, NgRx, Axios, Prisma, ESLint, Prettier, GitHub, Git Flow, GitHub Actions, Clarity, Google Search, Google TAG Manager, Pixel, among others.
 <div align="center"> 
   <div style="display: inline_block">
    <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,9 +26,10 @@ ReactJS, Next.JS, Node.Js, TypeScript, JavaScript, HTML5, CSS3, Sass, Styled Com
 ## ⚡ Skills
 - Responsive WEB systems and Mobile applications
 - WEB/Mobile design and user experience flow
-- CI/CD pipelines with GitHub Actions
+- CI/CD pipelines with GitHub Actions and GitLab
 - Pixel Perfection with Figma
 - Project versioning with GitHub
+- Git Flow and Conventional Commits
 - Agile methodologies
 - Digital Ocean, Amazon Web Services, Vercel and Firebase
 - Jira, ClickUp, Asana and Trello
@@ -39,7 +40,7 @@ ReactJS, Next.JS, Node.Js, TypeScript, JavaScript, HTML5, CSS3, Sass, Styled Com
   <img  width="41.9%" src="https://github-readme-stats.vercel.app/api/top-langs?username=werlleyg&layout=compact&langs_count=8" style="flex:2"/>
 </div>
 
-## ✉️ Contate me
+## ✉️ Contact me
 
 <div>
     <a href="https://www.linkedin.com/in/werlleyg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
